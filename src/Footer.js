@@ -5,8 +5,12 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer>
-      . Code on{" "}
-      <a href="" target="_blank" rel="noopener noreferrer">
+      Coded by Andrea Pacheco.
+      <a
+        href="https://github.com/andreapachecogalindo/WeatherApp_react.git"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         GitHub
       </a>
     </footer>
